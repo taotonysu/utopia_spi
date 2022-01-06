@@ -2,7 +2,7 @@ package main
 
 import (
 	"errors"
-	"utopia_spi/contract"
+	"github.com/taotonysu/utopia_spi/contract"
 )
 
 var DynNative dynNativeContract
